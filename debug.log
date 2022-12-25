@@ -1,0 +1,14 @@
+2022-11-05 16:58:45,467: [ERROR] UDP connection lost: None
+2022-11-05 16:58:52,226: [ERROR] failed to recieve ACK from 127.0.0.1:8001 for 1 times
+2022-11-05 16:58:57,218: [ERROR] failed to recieve ACK from 127.0.0.1:8001 for 2 times
+2022-11-05 16:59:02,219: [ERROR] failed to recieve ACK from 127.0.0.1:8001 for 3 times
+2022-11-05 16:59:07,221: [ERROR] failed to recieve ACK from 127.0.0.1:8001 for 4 times
+2022-11-05 16:59:07,222: [ERROR] suspecting as failure: 127.0.0.1:8001
+2022-11-05 16:59:12,228: [ERROR] failed to recieve ACK from 127.0.0.1:8001 for 5 times
+2022-11-05 16:59:17,232: [ERROR] failed to recieve ACK from 127.0.0.1:8001 for 6 times
+2022-11-05 16:59:22,228: [ERROR] failed to recieve ACK from 127.0.0.1:8001 for 7 times
+2022-11-05 16:59:27,229: [ERROR] failed to recieve ACK from 127.0.0.1:8001 for 8 times
+2022-11-05 16:59:28,232: [ERROR] cleanup timeout elapsed removing from membershiplist: 127.0.0.1:8001
+2022-11-05 16:59:28,232: [ERROR] I should start the election
+2022-11-05 16:59:32,234: [ERROR] failed to recieve ACK from 127.0.0.1:8001 for 9 times
+2022-11-07 12:54:37,605: [ERROR] UDP connection lost: None

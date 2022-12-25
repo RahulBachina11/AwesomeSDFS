@@ -1,0 +1,12 @@
+2022-11-03 11:50:10,729: [ERROR] UDP connection lost: None
+2022-11-03 11:51:02,524: [ERROR] UDP connection lost: None
+2022-11-03 11:52:55,087: [ERROR] UDP connection lost: None
+2022-11-03 11:57:50,894: [ERROR] UDP connection lost: None
+2022-11-03 11:57:57,081: [ERROR] unknown bytes: '0010' is not a valid PacketType
+2022-11-03 11:58:02,081: [ERROR] unknown bytes: '0010' is not a valid PacketType
+2022-11-03 11:58:07,082: [ERROR] unknown bytes: '0010' is not a valid PacketType
+2022-11-03 11:58:55,842: [ERROR] UDP connection lost: None
+2022-11-03 11:59:44,343: [ERROR] UDP connection lost: None
+2022-11-03 15:49:06,769: [ERROR] UDP connection lost: None
+2022-11-03 18:03:39,184: [ERROR] UDP connection lost: None
+2022-11-03 18:05:10,149: [ERROR] UDP connection lost: None
